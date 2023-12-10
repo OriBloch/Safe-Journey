@@ -25,7 +25,7 @@ Safe Journey is a sophisticated routing program designed to prioritize user safe
 
 - **Route Calculation with Google Maps:** Utilizing the Google Maps API, Safe Journey calculates and analyzes multiple routes between the specified points.
 
-- **Safety Scoring Algorithm:** Ori Bloch has devised an innovative algorithm that strategically creates midpoints along each route, assigning safety scores to evaluate the risk level at different locations. The cumulative scores aid in selecting the safest route available.
+- **Safety Scoring Algorithm:** Innovative algorithm that strategically creates midpoints along each route, assigning safety scores to evaluate the risk level at different locations. The cumulative scores aid in selecting the safest route available.
 
 - **Interactive Map with Accident Data:** Safe Journey generates an interactive map showcasing accidents and color-coded route points to indicate safe and potentially dangerous locations.
 
@@ -47,6 +47,7 @@ Safe Journey is a sophisticated routing program designed to prioritize user safe
 
 1. **Get Your Google Maps API Key:**
    - Obtain a Google Maps API key and ensure proper configuration.
+   - Download dataset from https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
 
 2. **Adjust Database for Different State:**
    - If using a state other than Colorado, modify accidents_backend using `data_selection_by_state` and reformat the data accordingly.
