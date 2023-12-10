@@ -111,7 +111,7 @@ Make sure you have the following dependencies installed before running the proje
 **Ori Bloch**
 - Space Business Development Lead
 - Electrical & Computer Engineering Student
-- Algorithm Engineer
+- Algorithm Developer
 
 
 
