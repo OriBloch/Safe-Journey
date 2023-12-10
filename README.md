@@ -71,14 +71,14 @@ Safe Journey is a sophisticated routing program designed to prioritize user safe
 |                                                                                     |                                                                                       |
 |-------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 | **Step 2:** Calculation                                                             | **Step 1:** Input                                                                     |
-| Validation, Route creation, Scoring algorithm                                       | User enters origin & destination addresses                                            |
-| <img src="Images/Step 2 Scoring Origin.png" alt="Step 1" width="300" height="150"/> | <img src="Images/Step 1 Calculating Origin.png" alt="Step 1" width="300" height="150"/> |
+| Validations, Routes creation and Scoring algorithm                                          | User enters origin & destination addresses, Colorado                                            |
+| <img src="Images/Step 2 Scoring Origin.png" alt="Step 1" width="200" height="150"/> | <img src="Images/Step 1 Calculating Origin.png" alt="Step 1" width="200" height="150"/> |
 
 |                                                                                          |                                                                                     |
 |------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
 | **Step 3:**                                                                              | **Step 4:** Map Creation                                                            |
-| Google-Maps directions URL production for safest route for user                          | Interactive map with highlighted route points & accidents                           |
-| <img src="Images/Step 3 Instructions Origin.png" alt="Step 1" width="300" height="150"/> | <img src="Images/Step 4 Mapping Origin.png" alt="Step 1" width="300" height="150"/> |
+| Google-Maps directions URL production for maps                          | Interactive map, highlighted route points & accidents                           |
+| <img src="Images/Step 3 Instructions Origin.png" alt="Step 1" width="200" height="150"/> | <img src="Images/Step 4 Mapping Origin.png" alt="Step 1" width="200" height="150"/> |
 
 </div>
 
@@ -108,12 +108,13 @@ Make sure you have the following dependencies installed before running the proje
 
 **Ori Bloch**
 - Space Business Development Lead
-- Electrical & Computer Engineering Student**
+- Electrical & Computer Engineering Student
+- Algorithm Engineer
 
 
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ori_Bloch-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ori-bloch-312768207/)
-- [![GitHub](https://img.shields.io/badge/GitHub-Ori_Bloch-black?style=flat-square&logo=github)](link to your GitHub profile)
+- [![GitHub](https://img.shields.io/badge/GitHub-Ori_Bloch-black?style=flat-square&logo=github)](https://github.com/OriBloch)
 #
 
 <div style="text-align: center;">
