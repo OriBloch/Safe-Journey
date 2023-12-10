@@ -66,12 +66,14 @@ Safe Journey is a sophisticated routing program designed to prioritize user safe
 
 # Program Flow
 
+##### [Watch Demo of the Program](#)
+
 <div style="text-align: center;">
 
 |                                                                                     |                                                                                       |
 |-------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 | **Step 2:** Calculation                                                             | **Step 1:** Input                                                                     |
-| Validations, Routes creation and Scoring algorithm                                          | User enters origin & destination addresses, Colorado                                            |
+| Validations, routes creation and scoring algorithm                                          | User inputs: origin, destination addresses in Colorado                                            |
 | <img src="Images/Step 2 Scoring Origin.png" alt="Step 1" width="200" height="150"/> | <img src="Images/Step 1 Calculating Origin.png" alt="Step 1" width="200" height="150"/> |
 
 |                                                                                          |                                                                                     |
