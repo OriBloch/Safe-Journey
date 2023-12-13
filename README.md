@@ -67,7 +67,6 @@ Safe Journey is a sophisticated routing program designed to prioritize user safe
 
 # Program Flow
 
-##### [Watch Demo of the Program](#)
 
 <div style="text-align: center;">
 
